@@ -53,7 +53,7 @@
 
 
 ## Output:
-![image](https://github.com/roshinithangachamy/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147118341/4313ed87-39f7-4d6b-a899-aa4fed20f647)
+![image](https://github.com/roshinithangachamy/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147118341/d633d411-07ab-402c-a071-c75a94603b56)
 
 
 ### Name:ROSHINI T
